@@ -1,0 +1,9 @@
+uuid: 5dcf0480-9ebc-434a-b630-fa22b6a5d5a5
+langcode: en
+status: true
+dependencies: {  }
+name: 'favorite colors'
+vid: favorite_colors
+description: ''
+hierarchy: 0
+weight: 0
