@@ -48,7 +48,7 @@ main {
 	margin-bottom: 10px;
 }
 
-nav {
+.menu {
 	padding-bottom: 25px;
-	border-bottom: 5px solid black;
+	border-bottom: 1px solid black;
 }
