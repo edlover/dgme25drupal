@@ -48,3 +48,7 @@ main {
 	margin-bottom: 10px;
 }
 
+nav {
+	padding-bottom: 25px;
+	border-bottom: 5px solid black;
+}
