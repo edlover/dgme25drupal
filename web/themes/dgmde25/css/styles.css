@@ -42,7 +42,7 @@ main {
 	color: #f3f3f3;
 }
 
-.block.system.branding.block img {
+.site-logo > img {
 	margin-left: 50px;
 	margin-top: 10px;
 	margin-bottom: 10px;
