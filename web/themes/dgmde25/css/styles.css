@@ -20,8 +20,12 @@ main {
 
 .side-navigation {
 	width: 25%;
+	margin-top: 50px;
+	margin-left:20px;
+	background-color: var(--main-theme-color);
 }
 
 .views-row {
-	margin-top: 20px;
+	margin-top: 60px;
+	margin-bottom: 60px;
 }
