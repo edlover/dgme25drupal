@@ -21,3 +21,7 @@ main {
 .side-navigation {
 	width: 25%;
 }
+
+.views-row {
+	margin-top: 20px;
+}
