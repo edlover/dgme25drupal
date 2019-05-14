@@ -1,5 +1,13 @@
+:root {
+   --main-theme-color: #f68e13;
+}
+
 body {
   background-color: white;
+}
+
+header {
+	background-color: var(--main-theme-color);
 }
 
 main {
