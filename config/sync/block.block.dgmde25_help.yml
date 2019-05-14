@@ -1,0 +1,22 @@
+uuid: 6c5e519d-ab8b-4bd7-8390-5cb940076e66
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - dgmde25
+_core:
+  default_config_hash: 8I8iACSa0sKO3k3jlvUG1ge52rfcKX7USJAQYnzuBgg
+id: dgmde25_help
+theme: dgmde25
+region: content
+weight: -30
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

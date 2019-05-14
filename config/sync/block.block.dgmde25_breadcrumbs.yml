@@ -1,15 +1,15 @@
-uuid: 5b818942-badb-4557-83e4-7fee653f132f
+uuid: 18c9adf1-af78-4ea8-b852-b23717c869a3
 langcode: en
 status: false
 dependencies:
   module:
     - system
   theme:
-    - bartik
+    - dgmde25
 _core:
   default_config_hash: oXUb3JZR2WW5VOdw4HrhRicCsq51mCgLfRyvheG68ck
-id: bartik_breadcrumbs
-theme: bartik
+id: dgmde25_breadcrumbs
+theme: dgmde25
 region: breadcrumb
 weight: 0
 provider: null

@@ -1,0 +1,22 @@
+uuid: a74bf7a4-aa58-474a-84d1-0dd17edd9951
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - dgmde25
+_core:
+  default_config_hash: 9EoWV2Lot6FVSr50t4hoKgiz1LIXYWNG-IIPYsWxBqo
+id: dgmde25_content
+theme: dgmde25
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }
