@@ -33,6 +33,7 @@ main {
 
 .menu-item a {
 	color: white;
+	text-decoration: none;
 }
 
 .menu-item > li > a:hover,
