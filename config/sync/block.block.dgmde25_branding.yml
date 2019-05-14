@@ -1,15 +1,15 @@
-uuid: 14e64703-4486-4193-99ef-5fd7f7185541
+uuid: f0f19ef0-a1a6-409a-a066-604a529e8414
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - bartik
+    - dgmde25
 _core:
   default_config_hash: NDwadleLD3YVSbDUaakxyYZyINYtkFtOVGShfq4kWy8
-id: bartik_branding
-theme: bartik
+id: dgmde25_branding
+theme: dgmde25
 region: header
 weight: 0
 provider: null

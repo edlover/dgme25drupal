@@ -1,4 +1,4 @@
-uuid: 880de582-6b22-48fb-8339-036b311d6739
+uuid: 79dd3bed-0fb9-48fa-81f4-820c045982b5
 langcode: en
 status: true
 dependencies:
@@ -7,11 +7,11 @@ dependencies:
   module:
     - system
   theme:
-    - bartik
+    - dgmde25
 _core:
   default_config_hash: NeHSoqm4XFqA7_0bDmR429ZZQt3LRbZMNRJTMsFyOfI
-id: bartik_tools
-theme: bartik
+id: dgmde25_tools
+theme: dgmde25
 region: sidebar_first
 weight: -4
 provider: null

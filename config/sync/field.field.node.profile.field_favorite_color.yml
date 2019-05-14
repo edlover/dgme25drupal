@@ -5,12 +5,12 @@ dependencies:
   config:
     - field.storage.node.field_favorite_color
     - node.type.profile
-    - taxonomy.vocabulary.favorite_colors
+    - taxonomy.vocabulary.off_road_vehicle_brand_preferenc
 id: node.profile.field_favorite_color
 field_name: field_favorite_color
 entity_type: node
 bundle: profile
-label: 'Favorite Color'
+label: 'Off Road Vehicle Brand Preference'
 description: ''
 required: false
 translatable: false
@@ -20,7 +20,7 @@ settings:
   handler: 'default:taxonomy_term'
   handler_settings:
     target_bundles:
-      favorite_colors: favorite_colors
+      off_road_vehicle_brand_preferenc: off_road_vehicle_brand_preferenc
     sort:
       field: name
       direction: asc
