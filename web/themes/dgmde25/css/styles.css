@@ -30,3 +30,13 @@ main {
 	margin-top: 60px;
 	margin-bottom: 60px;
 }
+
+.mmenu-item a {
+	color: white;
+}
+
+.menu-item > li > a:hover,
+.menu-item > li > a:focus {
+	background-color: transparent;
+	color: #f3f3f3;
+}
