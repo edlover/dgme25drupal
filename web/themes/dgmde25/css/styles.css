@@ -16,10 +16,11 @@ main {
 
 .content-wrapper {
 	width: 70%;
+	margin-left: 15px;
 }
 
 .side-navigation {
-	width: 25%;
+	width: 20%;
 	margin-top: 50px;
 	margin-left:20px;
 	background-color: var(--main-theme-color);
